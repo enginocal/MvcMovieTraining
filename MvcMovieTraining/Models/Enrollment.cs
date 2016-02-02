@@ -1,4 +1,4 @@
-﻿namespace MvcMovieTraining.Models
+﻿namespace MvcCollegeTraining.Models
 {
     public enum Grade { A, B, C, D, E, F }
 

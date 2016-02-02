@@ -1,10 +1,10 @@
-﻿using MvcMovieTraining.Models;
+﻿using MvcCollegeTraining.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace MvcMovieTraining.DAL
+namespace MvcCollegeTraining.DAL
 {
     public class SchoolInitializer : System.Data.Entity.DropCreateDatabaseIfModelChanges<SchoolContext>
     {

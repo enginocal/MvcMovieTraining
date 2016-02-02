@@ -6,10 +6,10 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using MvcMovieTraining.DAL;
-using MvcMovieTraining.Models;
+using MvcCollegeTraining.DAL;
+using MvcCollegeTraining.Models;
 
-namespace MvcMovieTraining.Controllers
+namespace MvcCollegeTraining.Controllers
 {
     public class StudentController : Controller
     {

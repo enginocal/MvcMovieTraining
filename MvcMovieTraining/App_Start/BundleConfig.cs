@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace MvcMovieTraining
+namespace MvcCollegeTraining
 {
     public class BundleConfig
     {

@@ -6,9 +6,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using MvcMovieTraining.Models;
+using MvcCollegeTraining.Models;
 
-namespace MvcMovieTraining.Controllers
+namespace MvcCollegeTraining.Controllers
 {
     [Authorize]
     public class ManageController : Controller
